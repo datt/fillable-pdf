@@ -1,3 +1,3 @@
 module FillablePDF
-  VERSION = '0.71'.freeze
+  VERSION = '0.6.1'.freeze
 end
